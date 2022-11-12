@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://wms.cs.kuleuven.be/cs/english'>KU Leuven</a>. Department of Computer Science. Leuven.
 
 profile:
   align: right
