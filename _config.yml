@@ -70,7 +70,7 @@ gitlab_username: # your GitLab user name
 twitter_username: wm1386 # your Twitter handle
 mastodon_username: # your mastodon username
 mastodon_instance: # your mastodon instance
-linkedin_username: # your LinkedIn user name
+linkedin_username: ashoksamraj # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -111,10 +111,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: ashgang # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+#blog_name: ashgang # blog_name will be displayed in your blog page
+#blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+#blog_description: a simple whitespace theme for academics
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:

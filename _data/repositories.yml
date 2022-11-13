@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ashgang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ashgang/u-BootWandB
+  - ashgang/MyWebsite
+  - ashgang/RandomAlgos
+  - ashgang/morphy
+  - ashgang/ashgang.github.io
