@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: Hybrid RF-energy harvester.
+title: Hybrid RF-energy harvester
+description: Hybrid RF-energy harvester intented to provide an easy entry to RF energy harvesting experiments.
 img: assets/img/LoRaBC.jpg
 importance: 3
 category: fun

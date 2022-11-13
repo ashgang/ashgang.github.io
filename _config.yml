@@ -39,7 +39,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,7 +71,7 @@ twitter_username: wm1386 # your Twitter handle
 mastodon_username: # your mastodon username
 mastodon_instance: # your mastodon instance
 linkedin_username: ashoksamraj # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: ashoksamraj.t86@gmail.com # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID

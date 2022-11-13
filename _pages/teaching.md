@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 <!-- description: Materials for courses you taught. Replace this text with your description. -->
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 I enjoy teaching and mentoring motivated students. "Human knowledge belongs to the world", it brings incredible happiness sharing the knowledge I know and in the process learning and accumulating interesting experiences.
 

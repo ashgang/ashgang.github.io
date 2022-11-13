@@ -1,12 +1,12 @@
 ---
 layout: page
-title: WiPeR
-description: Wireless, Pervasive & Reliable Monitoring of Industrial Internet of Things Systems
-img: assets/img/wipernode.jpg
+title: Citizen Dialogue Kit
+description: A new class of interactive battery operated sensor node.
+img: assets/img/CDKNode.jpg
 importance: 2
 category: work
 ---
 
-The WiPeR project intents to develop an innovative solution for condition-based monitoring that eliminates sensor power and network cables without compromising data quality or reliability.
+The Citizen Dialogue Kit (CDK) marks a new class of battery powered interactive IoT devices, optimised to long life, which are spatially distributed to interactively gather data on issues that matter.
 
-More information coming soon.
+More information on the architecture coming soon...
