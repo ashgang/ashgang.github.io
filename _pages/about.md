@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='https://wms.cs.kuleuven.be/cs/english'>KU Leuven</a>. Department of Computer Science. Leuven.
 
 profile:
