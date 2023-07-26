@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ashok
 middle_name: Samraj
 last_name: Thangarajan
-email: ashoksamraj.thangarajan@kuleuven.be
+email: ashok.thangarajan@nokia-bell-labs.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi there! Welcome to my page. Knowing me is by being with me. Take a walk into my website to know who I am and why I do what I do!
 footer_text: >
